@@ -1,6 +1,6 @@
 -  Hi there, I’m Nikita👋
 - 👀 I’m interested in Transforming data into Intuitive insights
-- 🌱 I’m currently learning Analytical Skills, SQL, Python, Power BI
+- 🌱 I’m currently learning Analytical Skills, SQL, Python, Machine Learning, Power BI
 - 📫 Reach me - np.nikita11@gmail.com
 - 😁 Fun Fact : "Did you know? The world's data is growing at an astonishing rate! Every two days, we create as much information as we did from the dawn of civilization up until 2003. Let's unravel this data universe together through innovation and insightful analysis! 🌐📊 #DataUnleashed #InfiniteInsights"
 

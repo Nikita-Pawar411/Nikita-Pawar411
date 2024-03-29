@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Nikita Pawar</h1>
 <h3 align="center"> I’m interested in Transforming data into Intuitive insights</h3>
 
-<img align="right" alt="coding" width="350" src="https://static.wixstatic.com/media/3e99b9_f53a1cab95ae4dfd938a1bf6a1a62f49~mv2.gif">
+<img align="right" alt="coding" width="350" src="https://reactionpower.com/wp-content/uploads/2020/09/machine-learning-big-data-analytics-and-predictive-logic.gif">
 
 - 👀 I’m currently working on **Email Parsing Model, where I delve into emails using Python scripts and machine learning techniques. The work involves teaching the model how to read and understand emails using Natural Language Processing (NLP) methods.**
 

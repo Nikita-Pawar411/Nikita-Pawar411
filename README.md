@@ -1,8 +1,8 @@
 ![logo](https://static.wixstatic.com/media/3e99b9_f53a1cab95ae4dfd938a1bf6a1a62f49~mv2.gif)
 <h1 align="center">Hi 👋, I'm Nikita Pawar</h1>
-<h3 align="center"> I’m interested in Transforming data into Intuitive insights</h3>
+<h3 align="center">I’m interested in Transforming data into Intuitive insights</h3>
 
-<img align="right" alt="coding" width="350" src="https://reactionpower.com/wp-content/uploads/2020/09/machine-learning-big-data-analytics-and-predictive-logic.gif">
+<img align="right" alt="coding" width="400" src="https://reactionpower.com/wp-content/uploads/2020/09/machine-learning-big-data-analytics-and-predictive-logic.gif">
 
 - 👀 I’m currently working on **Email Parsing Model, where I delve into emails using Python scripts and machine learning techniques. The work involves teaching the model how to read and understand emails using Natural Language Processing (NLP) methods.**
 
@@ -14,7 +14,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/nikita-pawar-4b8b67210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/-nikitapawar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/-nikitapawar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/-nikitapawar" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/np_nikita11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/np_nikita11" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

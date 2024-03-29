@@ -1,3 +1,4 @@
+![logo](https://github.com/Nikita-Pawar411/Nikita-Pawar411/blob/main/Github%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm Nikita Pawar</h1>
 <h3 align="center"> I’m interested in Transforming data into Intuitive insights</h3>
 
